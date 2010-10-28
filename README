@@ -1,0 +1,13 @@
+Social Plugins and Open Graph Sample App
+
+Contents
+- storybar.zip
+
+Instructions
+1. Unzip file
+2. If you don't have one already, get an app id for your site: http://developers.facebook.com/setup/
+3. Modify storybar.html (see comments)
+4. Run storybar.html
+
+Feedback?
+http://developers.facebook.com/docs/samples
